@@ -1,4 +1,4 @@
-# 🐳 Docker Nedir, Ne İşe Yarar? | Tarihçesi
+# 🐳 Docker 
 
 ---
 
